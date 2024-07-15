@@ -1,7 +1,7 @@
 **Sekino Haito**<br />
 _Web3 / AI Developer_<br />
 <br />
-<p align=center>
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,rust,zig,solidity,apple,htmx,p5js,threejs,nextjs,kali,arduino,ps,ai,ae,pr,figma,blender,swift,flutter,html,css,js,react,vite,tailwind,bootstrap,ts,bun,docker,cpp,py,opencv,neovim,&theme=light&perline=10" />
   </a>
