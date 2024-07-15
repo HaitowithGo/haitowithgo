@@ -1,4 +1,5 @@
 **Sekino Haito**<br />
+<a href="https://sekinohaito.vercel.app/">My WebSite</a><br />
 _Web3 / AI Developer_<br />
 <br />
 <p>
@@ -26,7 +27,7 @@ Recently I have been doing research and writing short papers and reports about i
 **THE Arts**<br />
 [p5.js, Three.js, TouchDesigner, Ps Ai Ae, photography]<br />
 <br />
-The main project is related to the development of **Web3** and **Security**.
-
+The main project is related to the development of **Web3** and **Security**.<br />
+I don't use GitHub much.<br />
 
 
