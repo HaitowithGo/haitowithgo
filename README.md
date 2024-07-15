@@ -14,6 +14,9 @@ Recently I have been doing research and writing short papers and reports about i
 **Security**<br />
 [White Hacking, battle of defense, CTF, Kali]<br />
 <br />
+**Back End** <br />
+[Go, Rust, Zig]<br />
+<br />
 **AI**<br />
 [Machine Learning/AI in Medicine, Machine Learning for Image Recognition, LLM]<br />
 <br />
